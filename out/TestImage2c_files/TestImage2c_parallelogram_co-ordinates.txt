@@ -1,0 +1,3 @@
+Parallelogram #0 Co-ordinates: [(750, 359), (979, 391), (768, 281), (980, 307)]
+Parallelogram #1 Co-ordinates: [(445, 509), (605, 289), (439, 615), (608, 374)]
+Parallelogram #2 Co-ordinates: [(96, 482), (440, 601), (76, 367), (446, 494)]
